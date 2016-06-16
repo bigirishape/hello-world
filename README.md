@@ -1,2 +1,4 @@
 # hello-world
-Just a test repo
+
+I'm playing with github, whee.
+I like coffee and swords.
